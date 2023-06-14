@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #e15f41;
+    background-color: #193d28;
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color: #e15f41;
+    color: #193d28;
 }
 
 #cabecalho .nav .nav-link,
@@ -19,29 +19,34 @@ body {
 }
 
 .navbar-toggler {
-    background-color: #ffeae6;
+    background-color: #378a5c;
 }
 
 .section-title {
     font-family: Pacifico, cursive;
 }
 
+.navbar-brand {
+    font-size: 40px;
+    font-family: 'Concert One', cursive;
+}
+
 #sobre-o-restaurante, #cardapio {
-    background-color: #ffeae6;
+    background-color: #dfffeb63;
 }
 
 .text-colored {
-    color: #e15f41;
+    color: #193d28;
 }
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button {
-    background-color: #e15f41;
+    background-color: #193d28;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #e15f41;
+    color: #193d28;
 }
 
 .social-links li {
